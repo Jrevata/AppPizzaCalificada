@@ -140,6 +140,7 @@ public class DeliveryActivity extends AppCompatActivity {
         }
     }
 
+
     public void ordenarPedido(View view){
         total = precio + precioComplemento;
 
